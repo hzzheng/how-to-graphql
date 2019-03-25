@@ -11,7 +11,7 @@ Learning Materials of GraphQL
 
 - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 - [GRAPHQL.JS TUTORIAL](https://graphql.org/graphql-js/)
-- [The Modern GraphQL Bootcamp (Advanced Node.js)](https://www.udemy.com/graphql-bootcamp/)[Vedio]
+- [The Modern GraphQL Bootcamp (Advanced Node.js)](https://www.udemy.com/graphql-bootcamp/)[Video]
 
 
 ## Articles
